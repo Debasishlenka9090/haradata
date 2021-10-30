@@ -1,0 +1,15 @@
+E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=HR.AzureAuthentication.HelloWorld
+--content-root=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Account\AccessDenied.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Account\SignedOut.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Home\About.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Home\Contact.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Home\Index.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Shared\Error.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Shared\_Layout.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Shared\_LoginPartial.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\_ViewImports.cshtml
+--file=E:\Praparation\Azure\Project\HR.AzureAuthentication.Solution\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\Views\_ViewStart.cshtml
