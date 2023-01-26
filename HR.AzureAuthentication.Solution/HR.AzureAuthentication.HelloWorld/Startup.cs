@@ -16,6 +16,9 @@ namespace HR.AzureAuthentication.HelloWorld
     {
         public Startup(IConfiguration configuration)
         {
+
+
+            //fffffffff
             Configuration = configuration;
         }
 
