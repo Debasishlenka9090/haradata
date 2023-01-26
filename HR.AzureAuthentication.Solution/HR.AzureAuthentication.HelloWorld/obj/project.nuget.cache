@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r9LENxiQiioU4MKm0e5bqELbijbEYB0WVvXa5/5x/8kftrWB54/JoVFnQTnWB1ZynuO2tUEliW7sfWmkyIzZzg==",
+  "dgSpecHash": "IT7pk2Cz+rhuEv4g590OtuzaS41glyGfhu3eDRdeOwA6kr4f49NdFy1XvUTQmEiFv+YXrIQoF7ZdF4miRLeHng==",
   "success": true,
-  "projectFilePath": "E:\\Praparation\\Azure\\Project\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.HelloWorld\\HR.AzureAuthentication.HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\testgit\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.HelloWorld\\HR.AzureAuthentication.HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",

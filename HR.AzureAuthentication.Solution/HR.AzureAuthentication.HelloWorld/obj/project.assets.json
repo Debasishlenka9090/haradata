@@ -13038,11 +13038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Praparation\\Azure\\Project\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.HelloWorld\\HR.AzureAuthentication.HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\testgit\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.HelloWorld\\HR.AzureAuthentication.HelloWorld.csproj",
       "projectName": "HR.AzureAuthentication.HelloWorld",
-      "projectPath": "E:\\Praparation\\Azure\\Project\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.HelloWorld\\HR.AzureAuthentication.HelloWorld.csproj",
+      "projectPath": "C:\\Users\\DELL\\source\\repos\\testgit\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.HelloWorld\\HR.AzureAuthentication.HelloWorld.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\Praparation\\Azure\\Project\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\source\\repos\\testgit\\HR.AzureAuthentication.Solution\\HR.AzureAuthentication.HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
