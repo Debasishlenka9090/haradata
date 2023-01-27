@@ -31,7 +31,7 @@ namespace HR.AzureAuthentication.HelloWorld.Controllers
 
             return View();
         }
-
+//testmaster1       added 
         [AllowAnonymous]
         public IActionResult Error()
         {
