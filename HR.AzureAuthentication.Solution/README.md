@@ -6,3 +6,5 @@ Configure authentication in a sample web app by using Azure AD B2C
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-authentication-sample-web-app?tabs=visual-studio#step-2-register-a-web-application
 
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-web-application?tabs=visual-studio
+
+--master latest
